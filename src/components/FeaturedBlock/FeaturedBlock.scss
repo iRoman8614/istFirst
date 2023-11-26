@@ -1,0 +1,40 @@
+.FeaturedBlockRoot {
+    padding: 85px 0 90px 0;
+    margin: auto;
+    width: fit-content;
+}
+
+.FBHeader {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.FeaturedBlockRoot .FBTitle {
+    color: #333;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.FeaturedBlockRoot .FBLinkBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.FeaturedBlockRoot .FBLinkBlock .FBLink {
+    text-decoration: none;
+    color: #8D4FDB;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.cardSmallSet {
+    width: 960px;
+}
